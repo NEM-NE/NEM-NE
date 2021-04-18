@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![NEM-NE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEM-NE&show_icons=true&theme=drcula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NEM-NE/NEM-NE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
